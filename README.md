@@ -67,3 +67,7 @@ This project demonstrates how different machine learning models handle imbalance
 **Author**
 
 DeJanee McAtee
+
+**Presentation Link**
+
+[McAteeCapstoneProject](https://canva.link/mcateecapstonefinalproject)
